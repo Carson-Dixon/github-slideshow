@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey Carson, give me an ohhhhhh yeaaahhhh
 Use the left arrow to go back!
 commit
